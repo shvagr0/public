@@ -1,0 +1,7 @@
+D:\programming\C#\double letter\bin\Debug\double letter.exe.config
+D:\programming\C#\double letter\bin\Debug\double letter.exe
+D:\programming\C#\double letter\bin\Debug\double letter.pdb
+D:\programming\C#\double letter\obj\Debug\double letter.csproj.AssemblyReference.cache
+D:\programming\C#\double letter\obj\Debug\double letter.csproj.CoreCompileInputs.cache
+D:\programming\C#\double letter\obj\Debug\double letter.exe
+D:\programming\C#\double letter\obj\Debug\double letter.pdb
